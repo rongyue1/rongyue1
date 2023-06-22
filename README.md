@@ -1,7 +1,8 @@
 # Hi, I'm Rong SUN!
 
-🤸🤸🤸🤸🤸🤸🤸🛌
-`Software Developer | Designer | Pre ECE Teacher`
+# 🤸🤸🤸🤸🤸🤸🤸🛌
+
+# `Software Developer | Designer | Pre ECE Teacher`
 
 - 🔭 I’m currently working on [today-i-learned](https://github.com/rongyue1/today-i-learned/tree/main)
 - 🌱 I’m currently learning: [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) & [Python Algorithms](https://www.udemy.com/course/data-structures-algorithms-python/)
