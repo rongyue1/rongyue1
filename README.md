@@ -1,5 +1,6 @@
-# 🤸 Hi, I'm Rong SUN!
+# Hi, I'm Rong SUN!
 
+🤸🤸🤸🤸🤸🤸🤸🛌
 `Software Developer | Designer | Pre ECE Teacher`
 
 - 🔭 I’m currently working on [today-i-learned](https://github.com/rongyue1/today-i-learned/tree/main)
