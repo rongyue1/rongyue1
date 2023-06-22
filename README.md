@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Rong SUN
+
+** `Software Developer | Designer` **
+
+I am a software developer with a previous career in visual communication design and early childhood education. I am keen to help craft user-friendly software and to be a part of innovative engineering work. I thrive in an inclusive and supportive settings that emphasize learning and growth. I value curiosity as the best motivation to learn and that helps me to be a curious learner in tech.
+
 <!--
 **rongyue1/rongyue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
