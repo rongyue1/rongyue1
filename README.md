@@ -44,35 +44,7 @@ class WhoAmI:
 
 ## Languages and Tools:
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/adobe-photoshop-logo-0.png" width='50'>](https://www.adobe.com/nz/products/photoshop.html)
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/ai.svg.png" width='40'>](https://www.adobe.com/nz/products/illustrator.html)
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/css.png" width='40'>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/html.png" width='30'>](https://developer.mozilla.org/en-US/docs/Web/html)
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" width='40'>](https://git-scm.com/)
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/python-icon.png" width='40'>](https://www.python.org/)
-
-[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/react-1-logo-png-transparent.png" width='40'>](https://react.dev/)
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/adobe-photoshop-logo-0.png" width='50'>](https://www.adobe.com/nz/products/photoshop.html)[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/ai.svg.png" width='40'>](https://www.adobe.com/nz/products/illustrator.html)[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/css.png" width='40'>](https://developer.mozilla.org/en-US/docs/Web/CSS)[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/html.png" width='30'>](https://developer.mozilla.org/en-US/docs/Web/html)[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" width='40'>](https://git-scm.com/)[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/python-icon.png" width='40'>](https://www.python.org/)[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/react-1-logo-png-transparent.png" width='40'>](https://react.dev/)
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
