@@ -40,7 +40,7 @@ class WhoAmI:
 
 ## Connect with me:
 
-[<img src="../rongyue1/pic/linkedIn_logo_initials.png">](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/linkedIn_logo_initials.png">](https://www.linkedin.com/in/rong-sun-731a7a227/)
 
 ## Languages and Tools:
 
