@@ -6,7 +6,7 @@
 class WhoAmI:
     def __init__(self, name, pronouns, fun_facts):
 	    self.name = "Rong SUN"
-        self.pronouns = "she/her"
+            self.pronouns = "she/her"
 	    self.fun_facts = [
 			"OCD for both clean code and clean space",
 			"Love standup comedy and have a (dark) sense of humor",
