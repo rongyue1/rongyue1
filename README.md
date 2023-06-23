@@ -44,6 +44,16 @@ class WhoAmI:
 
 ## Languages and Tools:
 
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/GitHub-Mark.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/adobe-photoshop-logo-0.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/ai.svg.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/css.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/html.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/js.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/python-icon.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+[<img src="https://github.com/rongyue1/rongyue1/blob/main/pic/react-1-logo-png-transparent.png" width='30'>](https://www.linkedin.com/in/rong-sun-731a7a227/)
+
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
