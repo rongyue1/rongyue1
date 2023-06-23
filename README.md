@@ -1,4 +1,4 @@
-# Hi, I'm Rong SUN! 🤸🤸🤸🤸🤸🤸🤸🛌
+# Hi, I'm Rong! 🤸🤸🤸 🛌
 
 `Software Developer | Designer | Pre ECE Teacher`
 
@@ -13,3 +13,6 @@
   - I love standup comedy and have a (dark) sense of humor
   - I am a great cook
   - I love bouldering, hiking and Thai boxing
+  <div align="center">
+  	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+  </div>
