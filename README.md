@@ -14,12 +14,12 @@ class WhoAmI:
 			"Houseplant killer but never stop trying"
 			]
     def currently(self):
-        project = ["today_i_learned"],
-        learning = ["machine_learning(coursera)", "python_algorithms(udemy)"]
+        learning = ["mysql", "machine_learning(coursera)", "python_algorithms(udemy)"]
 
     def finish(self):
          az_900 = "Azure Cloud Practitioner Certification"
-         project = "the Keeper App"
+         project_1 = "the Keeper App"
+         project_2 = "today_i_learned"
          return True
 
     def get_reading_list():
